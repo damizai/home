@@ -3,13 +3,13 @@
     "name": "Github",
     "icon": "/images/icon/github.png",
     "tip": "去 Github 看看",
-    "url": "https://github.com/imsyy"
+    "url": "https://github.com/damizai"
   },
   {
     "name": "BiliBili",
     "icon": "/images/icon/bilibili.png",
     "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com/98544142"
+    "url": "https://space.bilibili.com/294669683"
   },
   {
     "name": "QQ",
@@ -21,10 +21,11 @@
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "mailto:one@imsyy.top"
+    "url": "weilai2028@gmail.com"
   },
+  //   
   {
-    "name": "Twitter",
+    "name": "https://space.bilibili.com/294669683",
     "icon": "/images/icon/twitter.png",
     "tip": "你懂的 ~",
     "url": "https://twitter.com/iimmsyy"
