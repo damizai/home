@@ -20,10 +20,10 @@
     "link": "https://caoni.nyc.mn/"
   },
   {
-    "icon": "Cloudflare monitor",
-    "name": "监控",
+    "icon": "LaptopCode",
+    "name": "站点监测",
     "link": "https://uptime.nicea.us.kg/"
-  },  
+  }, 
   {
     "icon": "Book",
     "name": "网址集",
